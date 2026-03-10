@@ -1,2 +1,4 @@
 # Dotctl
-:crab: :page_facing_up: Dotctl is a package to control your dotfiles (and more) on Linux.
+:crab: :page_facing_up: Modern dotfile and file configuration manager
+
+A fast dotfile manager written in Rust
